@@ -4,6 +4,5 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ki-baek's&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Github👋&descAlignY=51&descAlign=62"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woora03)](https://solved.ac/woora03)
